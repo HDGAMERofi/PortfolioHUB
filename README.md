@@ -1,9 +1,9 @@
 # PortfolioHUB
-Nome: Henrique Dantas Leal Ferreira
+🔹Nome: Henrique Dantas Leal Ferreira
 
-Biografia:
+🔹Biografia:
 
-Contato:
+🔹Contato:
 
 Email: hdlferreira@gmail.com
 
@@ -13,21 +13,21 @@ GitHub: (https://github.com/HDGAMERofi)
 
 Telefone: 61 999676795
 
-Formação Acadêmica:
+🔹Formação Acadêmica:
 
 Ciencia da computação – CEUB 2026 - 1º semestre
 
 Engenharia Mecânica - UDF 2025 a 2026 - 2 semestres
 
-Experiência Profissional: 
+🔹Experiência Profissional: 
 [Cargo] – [Empresa]
 Descrição: [O que você fazia]
 
-Habilidades Técnicas: C
+🔹Habilidades Técnicas: C
 
-Habilidades Pessoais: comunicação, trabalho em equipe, organização, proativo.
+🔹Habilidades Pessoais: comunicação, trabalho em equipe, organização, proativo.
 
-Idiomas: Portugues fluente, Ingles-nivel intermediário.
+🔹Idiomas: Portugues fluente, Ingles-nivel intermediário.
 
 🔹 Projeto 1: [Nome do projeto]
 Descrição:
