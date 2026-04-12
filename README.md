@@ -3,14 +3,10 @@ Nome: Henrique Dantas Leal Ferreira
 
 Biografia:
 
-Contato
-
+Contato-
 Email: hdlferreira@gmail.com
-
 LinkedIn:
-
 GitHub: (https://github.com/HDGAMERofi)
-
 Telefone: 61 999676795
 
 Formação Acadêmica
