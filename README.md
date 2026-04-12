@@ -27,7 +27,7 @@ Habilidades Técnicas: C
 
 Habilidades Pessoais: comunicação, trabalho em equipe, organização, proativo.
 
-Idiomas: Ingles-nivel intermediário
+Idiomas: Portugues fluente, Ingles-nivel intermediário.
 
 🔹 Projeto 1: [Nome do projeto]
 Descrição:
