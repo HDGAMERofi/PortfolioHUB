@@ -3,7 +3,7 @@ Nome: Henrique Dantas Leal Ferreira
 
 Biografia:
 
-Contato-
+Contato\n
 Email: hdlferreira@gmail.com
 LinkedIn:
 GitHub: [link]
