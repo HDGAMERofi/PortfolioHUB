@@ -3,10 +3,14 @@ Nome: Henrique Dantas Leal Ferreira
 
 Biografia:
 
-Contato\n
+Contato
+
 Email: hdlferreira@gmail.com
+
 LinkedIn:
+
 GitHub: [link]
+
 Telefone: 61 999676795
 
 Formação Acadêmica
