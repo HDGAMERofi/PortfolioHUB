@@ -24,11 +24,3 @@ Engenharia Mecânica - UDF 2025 a 2026 - 2 semestres
 🔹Habilidades Pessoais: comunicação, trabalho em equipe, organização, proativo.
 
 🔹Idiomas: Portugues fluente, Ingles-nivel intermediário.
-
-🔹 Projeto 1: [Nome do projeto]
-Descrição:
-Explique o que é o projeto.
-
-Tecnologias usadas: [Ex: Python, C, etc.]
-
-Link: [Link do projeto ou GitHub]
