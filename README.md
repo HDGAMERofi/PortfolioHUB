@@ -5,12 +5,16 @@ Biografia:
 
 Contato-
 Email: hdlferreira@gmail.com
+
 LinkedIn:
+
 GitHub: (https://github.com/HDGAMERofi)
+
 Telefone: 61 999676795
 
-Formação Acadêmica
+Formação Acadêmica-
 Ciencia da computação – CEUB 2026 - 1º semestre
+
 Engenharia Mecânica - UDF 2 semestres
 
 Experiência Profissional: 
