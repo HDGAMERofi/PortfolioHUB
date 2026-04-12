@@ -17,7 +17,7 @@ Formação Acadêmica:
 
 Ciencia da computação – CEUB 2026 - 1º semestre
 
-Engenharia Mecânica - UDF 2 semestres
+Engenharia Mecânica - UDF 2025 a 2026 - 2 semestres
 
 Experiência Profissional: 
 [Cargo] – [Empresa]
