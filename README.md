@@ -1,7 +1,7 @@
 # PortfolioHUB
 🔹Nome: Henrique Dantas Leal Ferreira
 
-🔹Biografia:
+🔹Biografia: Tenho 19 anos, moro em Brasília e estudo no CEUB. Tenho interesse em ser desenvolvedor de Java, Python, C++, JavaScript.
 
 🔹Contato
 
