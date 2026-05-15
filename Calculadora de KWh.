@@ -1,0 +1,37 @@
+#include <stdio.h>
+#include <ctype.h>
+
+int main(){
+
+    float KWh,valor;
+    char tipo;
+
+    printf("\nINDUSTRIAL: I | COMERCIAL: C | RESIDENCIAL: R\n");
+    printf("Qual o seu tipo de instalacao: ");
+    scanf("%c",&tipo);
+
+    printf("\nQuantos KWh consumidos: ");
+    scanf("%f",&KWh);
+
+    if (toupper(tipo) == 'C'){
+        if (KWh<=500){
+            valor= KWh*0.40;
+        }else{
+            valor= KWh*0.65;
+        }  
+    }else if (toupper(tipo) == 'R'){
+        if (KWh<=1000){
+            valor= KWh*0.55;
+        }else{
+            valor= KWh*0.60;
+        } 
+    }else{
+        if (KWh<=5000){
+            valor= KWh*0.55;
+        }else{
+            valor= KWh*0.60;
+        }    
+    }
+    printf("Seu valor e de : %.2f",valor);
+    return 0;
+}
