@@ -9,6 +9,8 @@ Email: hdlferreira@gmail.com
 
 GitHub: (https://github.com/HDGAMERofi)
 
+Linkedin: 
+
 Telefone: 61 999676795
 
 🔹Formação Acadêmica
