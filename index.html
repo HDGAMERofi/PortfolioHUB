@@ -1,17 +1,101 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 <head>
-  <title>PortfolioHUB</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PortfolioHUB - Henrique Dantas</title>
+
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1>Henrique Dantas</h1>
-  <p>Portfólio acadêmico e pessoal.</p>
 
-  <h2>Projetos</h2>
-  <ul>
-    <li>Calculadora Python</li>
-    <li>Exercícios em C</li>
-    <li>Site HTML</li>
-  </ul>
+  <header>
+    <div class="container">
+      <h1>Henrique Dantas</h1>
+      <p>Portfólio Acadêmico e Pessoal</p>
+
+      <nav>
+        <a href="#sobre">Sobre</a>
+        <a href="#projetos">Projetos</a>
+        <a href="#contato">Contato</a>
+      </nav>
+    </div>
+  </header>
+
+  <section id="sobre" class="container">
+    <h2>Sobre Mim</h2>
+
+    <p>
+      Sou estudante de tecnologia e desenvolvimento de software,
+      com interesse em programação, desenvolvimento web,
+      lógica computacional e criação de projetos acadêmicos.
+    </p>
+  </section>
+
+  <section id="projetos" class="container">
+    <h2>Projetos</h2>
+
+    <div class="cards">
+
+      <div class="card">
+        <h3>Calculadora em Python</h3>
+
+        <p>
+          Projeto desenvolvido utilizando Python
+          para realizar operações matemáticas básicas.
+        </p>
+
+        <a href="#">Ver Projeto</a>
+      </div>
+
+      <div class="card">
+        <h3>Exercícios em C</h3>
+
+        <p>
+          Conjunto de exercícios desenvolvidos
+          durante as aulas de lógica de programação.
+        </p>
+
+        <a href="#">Ver Projeto</a>
+      </div>
+
+      <div class="card">
+        <h3>Site HTML/CSS</h3>
+
+        <p>
+          Página web criada utilizando HTML e CSS
+          com foco em estrutura e estilização.
+        </p>
+
+        <a href="#">Ver Projeto</a>
+      </div>
+
+    </div>
+  </section>
+
+  <section id="contato" class="container">
+    <h2>Contato</h2>
+
+    <p>Email: henrique@email.com</p>
+
+    <p>
+      GitHub:
+      <a href="https://github.com/" target="_blank">
+        github.com/seuusuario
+      </a>
+    </p>
+
+    <p>
+      LinkedIn:
+      <a href="https://linkedin.com/" target="_blank">
+        linkedin.com/in/seuperfil
+      </a>
+    </p>
+  </section>
+
+  <footer>
+    <p>© 2026 - Henrique Dantas | PortfolioHUB</p>
+  </footer>
+
 </body>
 </html>
