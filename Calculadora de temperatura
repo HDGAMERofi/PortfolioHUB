@@ -1,0 +1,22 @@
+#include <stdio.h>
+
+int main(){
+
+    float c,f,f_inicial,f_final;
+
+    printf("\nDigite o valor inicial em Fahrenheit: ");
+    scanf("%f",&f_inicial);
+    printf("\nDigite o valor final em Fahrenheit: ");
+    scanf("%f",&f_final);
+    printf("\n\tConversao CELSIU - FAHRENHEIT\n");
+    printf("CELSIUS\t\t\t\t\tFAHRENHEIT\n");
+
+    f = f_inicial;
+
+    while (f <= f_final){
+        c = (5.0/9.0)*(f-32);
+        printf("%.2f\t\t\t\t\t%.2f\n", c, f);
+        f++;
+    }
+    return 0;
+}
