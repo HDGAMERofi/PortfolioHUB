@@ -5,17 +5,19 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>PortfolioHUB | Henrique Dantas</title>
+  <title>Henrique Dantas | PortfolioHUB</title>
 
   <link rel="stylesheet" href="style.css">
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;700;800&family=DM+Sans:wght@300;400;500&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
 </head>
 
 <body>
+
+  <div class="cursor"></div>
 
   <header>
 
@@ -24,98 +26,60 @@
     </div>
 
     <nav>
+      <a href="#inicio">Início</a>
       <a href="#sobre">Sobre</a>
+      <a href="#skills">Skills</a>
       <a href="#projetos">Projetos</a>
       <a href="#contato">Contato</a>
     </nav>
 
   </header>
 
-  <section class="hero">
+  <section id="inicio" class="hero">
 
     <div class="hero-text">
 
-      <span>DESENVOLVEDOR & ESTUDANTE</span>
+      <span class="tag">
+        // PORTFÓLIO PROFISSIONAL
+      </span>
 
       <h1>
         Henrique <br>
-        Dantas
+        <span>Dantas</span>
       </h1>
 
+      <h2>
+        Estudante de Tecnologia & Desenvolvimento
+      </h2>
+
       <p>
-        Portfólio acadêmico e pessoal focado em
-        programação, desenvolvimento web e projetos de tecnologia.
+        Portfólio acadêmico focado em programação,
+        desenvolvimento web, GitHub e projetos pessoais.
       </p>
 
-      <a href="#projetos" class="btn">
-        Ver Projetos
-      </a>
+      <div class="buttons">
+
+        <a href="#projetos" class="btn-primary">
+          Ver Projetos
+        </a>
+
+        <a href="https://github.com/" target="_blank" class="btn-secondary">
+          GitHub →
+        </a>
+
+      </div>
 
     </div>
 
     <div class="hero-card">
 
-      <div class="circle"></div>
+      <div class="glow"></div>
 
-      <h2>2026</h2>
+      <div class="card-content">
 
-      <p>Projetos Acadêmicos</p>
+        <h3>2026</h3>
 
-    </div>
-
-  </section>
-
-  <section id="sobre" class="sobre">
-
-    <h2>Sobre Mim</h2>
-
-    <p>
-      Sou estudante de tecnologia apaixonado por programação,
-      desenvolvimento web, lógica computacional e criação de projetos.
-      Atualmente desenvolvendo conhecimentos em HTML, CSS, Python e C.
-    </p>
-
-  </section>
-
-  <section id="projetos" class="projetos">
-
-    <h2>Projetos</h2>
-
-    <div class="cards">
-
-      <div class="card">
-
-        <h3>Calculadora Python</h3>
-
-        <p>
-          Aplicação desenvolvida utilizando Python para operações matemáticas.
-        </p>
-
-        <a href="#">Ver Projeto</a>
-
-      </div>
-
-      <div class="card">
-
-        <h3>Exercícios em C</h3>
-
-        <p>
-          Projetos acadêmicos focados em lógica de programação e algoritmos.
-        </p>
-
-        <a href="#">Ver Projeto</a>
-
-      </div>
-
-      <div class="card">
-
-        <h3>Site HTML/CSS</h3>
-
-        <p>
-          Desenvolvimento de páginas modernas utilizando HTML e CSS.
-        </p>
-
-        <a href="#">Ver Projeto</a>
+        <p>PortfolioHUB</p>
 
       </div>
 
@@ -123,29 +87,209 @@
 
   </section>
 
-  <section id="contato" class="contato">
+  <section id="sobre" class="section">
 
-    <h2>Contato</h2>
+    <span class="section-tag">
+      01 // SOBRE
+    </span>
 
-    <p>Email: henrique@email.com</p>
+    <h2>
+      Quem sou eu
+    </h2>
 
-    <div class="social">
+    <div class="about-grid">
 
-      <a href="https://github.com/" target="_blank">
-        GitHub
-      </a>
+      <div class="about-card">
 
-      <a href="https://linkedin.com/" target="_blank">
-        LinkedIn
-      </a>
+        <p>
+          Sou estudante apaixonado por tecnologia,
+          programação e desenvolvimento de software.
+          Atualmente estudo HTML, CSS, Python e C,
+          buscando desenvolver projetos acadêmicos e profissionais.
+        </p>
+
+      </div>
+
+      <div class="about-side">
+
+        <div class="mini-card">
+          💻 Desenvolvimento Web
+        </div>
+
+        <div class="mini-card">
+          ⚡ Git & GitHub
+        </div>
+
+        <div class="mini-card">
+          🚀 Projetos Acadêmicos
+        </div>
+
+      </div>
+
+    </div>
+
+  </section>
+
+  <section id="skills" class="section">
+
+    <span class="section-tag">
+      02 // SKILLS
+    </span>
+
+    <h2>
+      Habilidades
+    </h2>
+
+    <div class="skills-grid">
+
+      <div class="skill-card">
+        <h3>HTML/CSS</h3>
+        <div class="bar">
+          <div class="fill html"></div>
+        </div>
+      </div>
+
+      <div class="skill-card">
+        <h3>Python</h3>
+        <div class="bar">
+          <div class="fill python"></div>
+        </div>
+      </div>
+
+      <div class="skill-card">
+        <h3>C</h3>
+        <div class="bar">
+          <div class="fill c"></div>
+        </div>
+      </div>
+
+      <div class="skill-card">
+        <h3>GitHub</h3>
+        <div class="bar">
+          <div class="fill git"></div>
+        </div>
+      </div>
+
+    </div>
+
+  </section>
+
+  <section id="projetos" class="section">
+
+    <span class="section-tag">
+      03 // PROJETOS
+    </span>
+
+    <h2>
+      Projetos
+    </h2>
+
+    <div class="projects-grid">
+
+      <div class="project-card">
+
+        <span class="project-type">
+          PYTHON
+        </span>
+
+        <h3>
+          Calculadora Python
+        </h3>
+
+        <p>
+          Projeto desenvolvido para cálculos matemáticos básicos.
+        </p>
+
+      </div>
+
+      <div class="project-card">
+
+        <span class="project-type">
+          HTML/CSS
+        </span>
+
+        <h3>
+          Página Web
+        </h3>
+
+        <p>
+          Desenvolvimento de site moderno utilizando HTML e CSS.
+        </p>
+
+      </div>
+
+      <div class="project-card">
+
+        <span class="project-type">
+          C
+        </span>
+
+        <h3>
+          Exercícios em C
+        </h3>
+
+        <p>
+          Atividades acadêmicas de lógica de programação.
+        </p>
+
+      </div>
+
+    </div>
+
+  </section>
+
+  <section id="contato" class="section">
+
+    <span class="section-tag">
+      04 // CONTATO
+    </span>
+
+    <h2>
+      Contato
+    </h2>
+
+    <div class="contact-card">
+
+      <p>
+        📧 henrique@email.com
+      </p>
+
+      <p>
+        📍 Brasília, DF
+      </p>
+
+      <div class="contact-links">
+
+        <a href="https://github.com/" target="_blank">
+          GitHub
+        </a>
+
+        <a href="https://linkedin.com/" target="_blank">
+          LinkedIn
+        </a>
+
+      </div>
 
     </div>
 
   </section>
 
   <footer>
-    © 2026 - Henrique Dantas
+    © 2026 - Henrique Dantas | PortfolioHUB
   </footer>
+
+  <script>
+
+    const cursor = document.querySelector('.cursor');
+
+    document.addEventListener('mousemove', (e) => {
+
+      cursor.style.left = e.clientX + 'px';
+      cursor.style.top = e.clientY + 'px';
+
+    });
+
+  </script>
 
 </body>
 
